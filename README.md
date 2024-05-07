@@ -6,8 +6,6 @@ Welcome to the SQL project focusing on querying the Music Store Database using P
 # About the Music Store Database
 The Music Store Database represents a simplified database schema for a music store. It contains tables such as albums, artists, tracks, invoices, customers, etc. Each table contains relevant information about albums, artists, tracks, sales transactions, and customers.
 
-# Schema 
-
 # Queries & Its Types
 
 ### Easy Queries
@@ -40,6 +38,6 @@ The Music Store Database represents a simplified database schema for a music sto
  
 # Running the Queries
 ### Connect to the Database: 
-- Ensure you have PostgreSQL installed and configured. Connect to the Music Store Database using your preferred SQL client or command-line interface.
+- Ensure you have PostgreSQL installed and configured. Connect to the Music Store Database using your preferred SQL client or command-line interface.I downloaded it from Rishab Mishra youtube Channel.
 ### Execute Queries:
-- Copy and paste the SQL queries from the project files into your SQL client and execute them against the database.
+- To execute we require to write these queries into our Postgre sql and we can see the results. Queries are written in M.S Word file, you can find it in this folder only.
